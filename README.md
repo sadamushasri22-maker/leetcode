@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadamushasri22-maker/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sadamushasri22-maker/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sadamushasri22-maker/leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadamushasri22-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/sadamushasri22-maker/leetcode/tree/master/0881-boats-to-save-people) |
 ## Array
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sadamushasri22-maker/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sadamushasri22-maker/leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadamushasri22-maker/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadamushasri22-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sadamushasri22-maker/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/sadamushasri22-maker/leetcode/tree/master/0881-boats-to-save-people) |
 | [1470-shuffle-the-array](https://github.com/sadamushasri22-maker/leetcode/tree/master/1470-shuffle-the-array) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadamushasri22-maker/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadamushasri22-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sadamushasri22-maker/leetcode/tree/master/0015-3sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadamushasri22-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/sadamushasri22-maker/leetcode/tree/master/0881-boats-to-save-people) |
 ## Simulation
 |  |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sadamushasri22-maker/leetcode/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadamushasri22-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
