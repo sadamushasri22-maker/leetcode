@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sadamushasri22-maker/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadamushasri22-maker/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sadamushasri22-maker/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/sadamushasri22-maker/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/sadamushasri22-maker/leetcode/tree/master/0881-boats-to-save-people) |
 | [1470-shuffle-the-array](https://github.com/sadamushasri22-maker/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/sadamushasri22-maker/leetcode/tree/master/1929-concatenation-of-array) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sadamushasri22-maker/leetcode/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sadamushasri22-maker/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
